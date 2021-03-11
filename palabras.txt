@@ -1,3 +1,9 @@
 Visual encodings
 Scalable vector graphics
 Cartographic projection
+Dendrogram
+Choropleth map
+Graduate Symbol Map
+Parallel Coordinates
+Icicle layout
+Sunburst layout
